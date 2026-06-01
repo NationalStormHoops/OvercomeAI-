@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Resilient Supply Chain Risk Index",
+  "description": "Visualizes global supply chain bottlenecks, stages, and logistics disruption risks using real-time predictive risk modeling and automated Gemini supplier mapping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
