@@ -1,12 +1,7 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+<img width="1200" height="475" alt="GHBanner" src="https://supplychainmanagementedu.org/wp-content/uploads/2023/10/global-shipping-logistics.jpg" />
 </div>
 
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/9a04a218-f892-42c7-985a-34d96ca97842
 
 ## Run Locally
 
